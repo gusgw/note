@@ -1,0 +1,30 @@
+---
+title: "Note"
+date: today
+toc: false
+number-sections: false
+tbl-cap-location: bottom
+format:
+  revtex-pdf:
+    papersize: a4
+    classoption:
+        - aps
+        - prl
+        - preprint
+author:
+    - name: Angus Gray-Weale
+      email: contact@gusgw.net
+      url: https://www.gusgw.net/
+---
+
+# Section
+
+## Chemistry
+
+Chemical notation is available: $\ce{H2O}$.
+
+## Mathematics
+
+$$
+\int\limits_{-\infty}^\infty \mathrm{d}x\, \exp\left(-\frac{1}{2}x^2\right)
+$$
