@@ -4,6 +4,7 @@ date: today
 toc: false
 number-sections: false
 tbl-cap-location: bottom
+bibliography: references.bib
 format:
   revtex-pdf:
     papersize: a4
@@ -21,7 +22,7 @@ author:
 
 ## Chemistry
 
-Chemical notation is available: $\ce{H2O}$.
+Chemical notation is available: $\ce{H2O}$ [@placeholder].
 
 ## Mathematics
 
